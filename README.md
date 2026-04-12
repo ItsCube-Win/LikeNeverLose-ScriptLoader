@@ -51,7 +51,7 @@ A powerful and feature-rich Roblox script for **Arsenal**, built on the NeverLos
 ## 📦 Installation
 
 1. Use a Roblox executor that supports the NeverLose UI library (e.g., **Fluxus**, **Delta**, **Codex**, **Hydrogen**).
-2. Copy the script from the [ScriptBlox](https://github.com/itscube_win/neverlose-arsenal/releases) or from the raw source.
+2. Copy the script from the [ScriptBlox](https://scriptblox.com/script/Arsenal-NeverLose-264874) or from the raw source.
 3. Paste the script into your executor.
 4. Attach and execute.
 5. Press `Insert` to open/close the GUI.
