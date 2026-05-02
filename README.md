@@ -5,6 +5,9 @@ A powerful and feature-rich Roblox script for **Arsenal**, built on the NeverLos
 > ⚠️ **This version is experimental and will no longer receive updates.**  
 > Future improvements and features will be available in a separate, maintained release.
 
+### Currently DOWN because arsenal Anti-Aim system but anything else is working 🧧 
+> Text Created 02.05.2026 | Anti Cheat updated 04.30.2026
+
 ![Neverlose UI](https://img.shields.io/badge/UI-Neverlose-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Roblox](https://img.shields.io/badge/Game-Arsenal-red)
